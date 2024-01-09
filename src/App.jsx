@@ -1,9 +1,10 @@
-import React, { useState } from 'react'
+import * as React from 'react'
+import { Container } from './components/Container'
 
 function App() {
   return (
     <>
-    this is a test
+    <Container />
     </>
   )
 }

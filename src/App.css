@@ -1,0 +1,15 @@
+html {
+  height: 100vh;
+}
+
+body {
+  background-color: rgb(144, 144, 144);
+}
+
+.subContainer {
+  height: 400px;
+  width: 275px;
+  background: #191919;
+  box-shadow: -1px -1px 20px #2d2d2d,
+              11px 11px 19px #1a1a1a;
+}
