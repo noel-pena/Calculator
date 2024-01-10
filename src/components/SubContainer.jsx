@@ -3,7 +3,7 @@ import * as React from "react";
 
 export const SubContainer = () => {
     return (
-        <Grid className="subContainer">
+        <Grid item className="subContainer">
             
         </Grid>
     )
