@@ -4,12 +4,20 @@ html {
 
 body {
   background-color: rgb(144, 144, 144);
+  font-family: 'Roboto', sans-serif;
 }
 
-.subContainer {
-  height: 400px;
-  width: 275px;
+.calculator {
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  height: 275px;
+  width: 280px;
   background: #191919;
   box-shadow: -1px -1px 20px #2d2d2d,
               11px 11px 19px #1a1a1a;
+}
+
+.entry{
+  font-size: 35px;
+  color: rgb(216, 216, 216);
 }

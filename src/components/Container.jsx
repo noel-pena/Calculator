@@ -1,6 +1,6 @@
 import { Grid } from "@mui/material"
 import * as React from "react"
-import { SubContainer } from "./SubContainer"
+import { Calculator } from "./Calculator"
 
 export const Container = () => {
     return(
@@ -11,7 +11,7 @@ export const Container = () => {
         justifyContent="center"
         alignItems="center" 
     >
-        <SubContainer />
+        <Calculator />
     </Grid>
     )
 }
