@@ -1,1 +1,3 @@
-Run "NPM i" for the modules then run "npm run dev" to start project
+# React Calculator
+
+### GH pages link: https://noel-pena.github.io/Calculator/
